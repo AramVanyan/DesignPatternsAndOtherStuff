@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.5" class="java.beans.XMLDecoder">
+ <object class="Demo" id="Demo0">
+  <void class="Demo" method="getField">
+   <string>a</string>
+   <void method="set">
+    <object idref="Demo0"/>
+    <int>20</int>
+   </void>
+  </void>
+  <void class="Demo" method="getField">
+   <string>b</string>
+   <void method="set">
+    <object idref="Demo0"/>
+    <string>Aram</string>
+   </void>
+  </void>
+ </object>
+</java>
