@@ -13,7 +13,5 @@ public class Main {
                 .lastName("Aramyan")
                 .phone(1231321)
                 .build();
-
-
     }
 }
